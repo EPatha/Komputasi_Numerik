@@ -24,8 +24,6 @@ Numerical computing is a field of study that uses computational algorithms to so
 ### 5. **Scientific Computing Libraries**
    - Popular libraries like:
      - Python: `NumPy`, `SciPy`, `SymPy`, `Matplotlib`.
-     - MATLAB: Built-in numerical computing tools.
-     - C++: Libraries like Eigen and Armadillo.
 
 ## Applications of Numerical Computing
 
